@@ -1,13 +1,13 @@
 {
-  "name": "your-project-name",
+  "name": "pets-lambda",
   "version": "1.0.0",
-  "description": "A brief description of your project",
+  "description": "pets site lambda backend using DynamoDB",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Your Name",
+  "author": "Tony Lu",
   "license": "ISC",
   "dependencies": {
   },
