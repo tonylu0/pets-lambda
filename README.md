@@ -1,0 +1,1 @@
+Pet Site lambda backend implementing REST API with DynamoDB
